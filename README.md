@@ -4,7 +4,6 @@ Junior Full Stack Developer / UX/UI Design / Graphic Design
 
 - 💬 Ask me about ... HTML, CSS, Javascript, React.js, Node.js, MySQL, MongoBD, Figma, Illustrator, InDesign, Photoshop, XD, After Effects
 - 📫 How to reach me: dianymartinez31@gmail.com
-- 🤔 I’m looking for help with ... 
 
 
 <!--
