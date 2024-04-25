@@ -1,5 +1,5 @@
 <div  align="center">
-<img width="300" height="300" src="./yo.png" alt="you"/>
+<img width="300" src="./yo.png" alt="you"/>
 </div>
 
 <div id="badges" align="center">
@@ -39,6 +39,7 @@
 
 ### Frameworks, Platforms and Libraries:
 ![React](image-6.png) 
+<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
 ![Bootstrap](image-7.png)
 ![Node.js](image-9.png)
 ![NPM](image-10.png)
