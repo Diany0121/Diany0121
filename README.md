@@ -39,32 +39,42 @@
     <img width="50" height="50" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 </div>
 
-### Languages:
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+### Languages:
+<div>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+</div>
+
 
 ## Code Editor:
+<div>
+    <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
+</div>
 
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ### Design:
+<div>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
+</div>
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
-<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
 
 ### Terminal:
+<div>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
+</div>
 
-<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 ### Social:
-
-<img width="50" height="50" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
-<img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
+<div>
+   <img width="50" height="50" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
+   <img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+   <img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
+</div>
