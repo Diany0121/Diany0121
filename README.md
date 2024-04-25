@@ -1,36 +1,40 @@
-### </Hola Mundo> # Hi there, It's Diany 👋
+<div  align="center">
+  <img width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
+<div>
 
-Junior Full Stack Developer / UX/UI Design / Graphic Design
+<div id="badges" align="center">
+<a href="mailto:dianymartinez31@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
 
-## About me 👩‍💻
+<a href="https://www.linkedin.com/in/diany-martinez" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
 
-Desarrolladora Full Stack Junior residente en Madrid, con  muchas ganas de iniciar mi carrera profesional en la industria tecnológica. He adquirido habilidades sólidas en tecnologías Frontend y Backend.
+</div>
 
-- 💬 Ask me about ... HTML, CSS, Javascript, React.js, Node.js, MySQL, MongoBD, Figma, Illustrator, InDesign, Photoshop, XD, After Effects
-- 📫 How to reach me: dianymartinez31@gmail.com & [My linkedin Profile] (https://www.linkedin.com/in/diany-martinez)
-
-
-## Some technologies I use ⚙️
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![JavaScript icon](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React icon](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node JS icon](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![My SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### </Hola Mundo> # Hi there, It's Diany 👋 Junior Front-end Developer
 
 
-<!--
-**Diany0121/Diany0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👩🏻‍💻 Diseñadora convertida en **desarrolladora de software**, con una pasión por combinar la creatividad con la precisión técnica.
 
-Here are some ideas to get you started:
+- 👩🏻‍🎓 Mi transición al desarrollo de software es un testimonio de mi **compromiso con el aprendizaje continuo**. Siempre buscando oportunidades para expandir mis **habilidades**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## 🎯 Currently:  
+
+💻 En **busqueda de trabajo como Desarrollador Front End Junior**.
+🌱 Trabajando en **proyectos personales**.
+📓 Estoy **aumentando mis conocimientos en TypeScript, Angular y Git**. 
+📍 Resido en **Madrid**, pero con disponibilidad de trasladarme.
+
+
+## 🛠️ Languages and Tools :
+
+### Design: 
+![alt text](image.png)
+
+
+![https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
