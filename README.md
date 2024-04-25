@@ -1,6 +1,6 @@
 <div  align="center">
   <img width="300" height="300" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif">
-<div>
+</div>
 
 <div id="badges" align="center">
 <a href="mailto:dianymartinez31@gmail.com" target="_blank">
@@ -10,8 +10,9 @@
 <a href="https://www.linkedin.com/in/diany-martinez" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-purple?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
-
 </div>
+
+
 
 ### </Hola Mundo> # Hi there, It's Diany 👋 Junior Front-end Developer
 
@@ -33,7 +34,7 @@
 ## 🛠️ Languages and Tools :
 
 ### Design: 
-![alt text](image.png)
+![FIGMA](image.png)
 
 
 ![https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
