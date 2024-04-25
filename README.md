@@ -35,6 +35,11 @@
 
 ### Design: 
 ![FIGMA](image.png)
+![Adobe Illustrator](image-2.png)
+![Adobe Photoshop](image-3.png)
+![Adobe XD](image-4.png)
+![Adobe Indesign](image-5.png)
+
 
 
 ![https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
