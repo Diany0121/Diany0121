@@ -25,8 +25,8 @@
 ## 🎯 Currently:
 
 - 💻 En **busqueda de trabajo como Desarrollador Front End Junior**.
-- 🌱 Trabajando en **proyectos personales**.
-- 📓 Estoy **aumentando mis conocimientos en TypeScript, Angular y Git**.
+- 🌱 Trabajando en **proyectos personales y de colaboración**.
+- 📓 Estoy **ampliando mis conocimientos en TypeScript, Angular y Git**.
 - 📍 Resido en **Madrid**, pero con disponibilidad de trasladarme.
 
 ## 🛠️ Languages and Tools :
@@ -47,6 +47,13 @@
     <img width="50" height="50" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
     <img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
+</div>
+
+### Data Base:
+<div>
+    <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+    <img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>
+    <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
 </div>
 
 
