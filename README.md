@@ -51,8 +51,8 @@
 
 ### Data Base:
 <div>
-    <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
-    <img width="48" height="48" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>
+    <img width="50" height="50" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
+    <img width="50" height="50" src="https://img.icons8.com/color/48/my-sql.png" alt="my-sql"/>
     <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
 </div>
 
