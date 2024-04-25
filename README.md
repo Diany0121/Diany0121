@@ -50,7 +50,7 @@
 </div>
 
 
-## Code Editor:
+### Code Editor:
 <div>
     <img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 </div>
