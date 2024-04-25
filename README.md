@@ -33,11 +33,19 @@
 
 ## 🛠️ Languages and Tools :
 
+### Frameworks, Platforms and Libraries:
+![React](image-6.png) 
+![Bootstrap](image-7.png)
+![Sass](image-8.png)
+
+
+
+
 ### Design: 
-![FIGMA](image.png)
+![FIGMA](image.png) width="300" height="300"
+![Adobe XD](image-4.png)
 ![Adobe Illustrator](image-2.png)
 ![Adobe Photoshop](image-3.png)
-![Adobe XD](image-4.png)
 ![Adobe Indesign](image-5.png)
 
 
