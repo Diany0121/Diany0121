@@ -38,33 +38,32 @@
 ## 🛠️ Languages and Tools :
 
 ### Frameworks, Platforms and Libraries:
-![React](image-6.png) 
-<img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-![Bootstrap](image-7.png)
-![Node.js](image-9.png)
-![NPM](image-10.png)
+<img width="50" height="50" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/bootstrap--v2.png" alt="bootstrap--v2"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/node-js.png" alt="node-js"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/npm.png" alt="npm"/>
 
 ### Languages:
-![HTML5](image-11.png)
-![CSS3](image-12.png)
-![Sass](image-8.png)
-![Javascript](image-13.png)
-![Typescript](image-14.png)
+<img width="50" height="50" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/sass.png" alt="sass"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/typescript.png" alt="typescript"/>
 
 ## Code Editor:
-![Visual Studio Code](image-19.png)
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/visual-studio-code-2019.png" alt="visual-studio-code-2019"/>
 
 ### Design: 
-![FIGMA](image.png)
-![Adobe XD](image-4.png)
-![Adobe Illustrator](image-2.png)
-![Adobe Photoshop](image-3.png)
-![Adobe Indesign](image-5.png)
+<img width="50" height="50" src="https://img.icons8.com/color/48/figma--v1.png" alt="figma--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-xd--v1.png" alt="adobe-xd--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-illustrator--v1.png" alt="adobe-illustrator--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" alt="adobe-photoshop--v1"/>
+<img width="50" height="50" src="https://img.icons8.com/color/48/adobe-indesign--v1.png" alt="adobe-indesign--v1"/>
 
 ### Terminal: 
-![GIT](image-15.png)
+<img width="50" height="50" src="https://img.icons8.com/color/48/git.png" alt="git"/>
 
 ### Social: 
-![Slack](image-16.png)
-![Teams](image-17.png)
-![GitHub](image-18.png)
+<img width="50" height="50" src="https://img.icons8.com/color/48/slack-new.png" alt="slack-new"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/microsoft-teams-2019.png" alt="microsoft-teams-2019"/>
+<img width="50" height="50" src="https://img.icons8.com/fluency/48/github.png" alt="github"/>
